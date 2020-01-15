@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is My First USB_Driver
 This is My First STM32 USB_Driver
 This is My First STM32 USB_Driver 001
@@ -5,7 +6,11 @@ This is My First STM32 USB_Driver 002
 4444444
 5555555
 6666666
+=======
+5555555
+6666666
 7777777
 8888888
 9999999
 1111111
+>>>>>>> usb_disk_20200115
